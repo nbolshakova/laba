@@ -2,12 +2,12 @@
 
 	<modelVersion>4.0.0</modelVersion>
 
-	<name>wcomponents-app-archetype</name>
-	<artifactId>wcomponents-app-archetype</artifactId>
+	
+	
 
 	<parent>
-		<groupId>com.github.bordertech.wcomponents</groupId>
-		<artifactId>wcomponents-parent</artifactId>
+		<groupId>com.github.nbolshakova.laba</groupId>
+		<artifactId>laba-parent</artifactId>
 		<version>1.4.19-SNAPSHOT</version>
 		<relativePath>../pom.xml</relativePath>
 	</parent>

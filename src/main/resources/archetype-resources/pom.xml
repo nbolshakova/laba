@@ -6,6 +6,7 @@
     <packaging>war</packaging>
     <artifactId>${artifactId}</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+         <relativePath/>
 
 
     <name>My WComponent App</name>

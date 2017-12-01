@@ -2,7 +2,8 @@
 
 	<modelVersion>4.0.0</modelVersion>
 
-	
+	<name>nbolshakova</name>
+	<artifactId>nbolshakova</artifactId>
 	
 
 	<parent>
